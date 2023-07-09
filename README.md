@@ -1,4 +1,4 @@
-Movie Recommender ![image](https://github.com/hasna-akbarali/movie_recommender/assets/44140720/fdf3d30d-3aa4-45f8-a87e-bceefc980a82)
+Movie Recommender 🍿👀🎞
 
 
 ### About
